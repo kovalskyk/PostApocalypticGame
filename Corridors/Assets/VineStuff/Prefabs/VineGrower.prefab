@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236e3e5171ab4ec4bb5f278b80e35401, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  useCameras: 0
+  useCameras: 1
   Particles: 30
   particleSystemPrefab: {fileID: 1505627401488154279, guid: 751f5427506ebd9478074b6bea146fe7,
     type: 3}
